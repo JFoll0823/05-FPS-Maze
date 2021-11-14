@@ -10,7 +10,7 @@ There is an exit that requires the player to have picked up a key
 There is a zombie that kills the player on contact  
      Note: Depending on the generated maze, the zombie may block the path to the key  
 FPS style player controller with WASD controls  
-Glass ceiling with metal framing to the walls  
+Glass ceiling with metal framing to the walls using CSG
 Main Menu  
 Win/Lose Screens  
 Pause Menu  
