@@ -6,7 +6,7 @@ func _ready():
 func _unhandled_input(event):
 	if event.is_action_pressed("menu"):
 		#get_tree().quit()
-		var menu = get_node_or_null("/root/Game/Menu")
+		var menu = get_node_or_null("/root/Game/UI/Menu")
 		if menu != null:
 			if not menu.visible:
 				menu.show()
